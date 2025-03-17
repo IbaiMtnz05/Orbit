@@ -95,7 +95,7 @@ A powerful Discord bot designed for Solana Degens to analyze memecoins, track wa
 > For VIP access and support:
 
 - Developer: @Ibaina
-- Business Contact: solanadegens99@gmail.com
+- Developed for: solanadegens99@gmail.com
 
 ## 🎯 Use Cases
 
