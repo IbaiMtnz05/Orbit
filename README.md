@@ -2,9 +2,15 @@
 
 A powerful Discord bot designed for Solana Degens to analyze memecoins, track wallets, and practice trading. Perfect for both new and experienced traders.
 
+> [!IMPORTANT]
+> This bot is exclusive to Solana Degens community members and authorized partners.
+
 ## 🤖 Commands
 
 ### Analysis Commands
+> [!TIP]
+> Use these commands to get detailed insights about tokens and wallets!
+
 - `/scan <token>`
   - Comprehensive token metrics and analysis
   - Price, liquidity, volume data
@@ -26,9 +32,12 @@ A powerful Discord bot designed for Solana Degens to analyze memecoins, track wa
   - Real-time loading status
 
 ### Trading Practice
-- `/practicebuy`
+> [!NOTE]
+> Practice trading without risking real funds!
+
+- `/practicebuy <token>`
   - Paper trading simulation
-  - Multiple token selection
+  - Custom token supported
   - Leverage options
   - Real-time price data
   - Price charts integration
@@ -48,6 +57,9 @@ A powerful Discord bot designed for Solana Degens to analyze memecoins, track wa
 
 ## 🛡️ Protection Features
 
+> [!WARNING]
+> Unauthorized usage attempts will be automatically rejected.
+
 - **Server Exclusive**: Bot only works in authorized Discord servers
 - **VIP Channel Access**: Commands are restricted to designated channels
 - **Custom Error Messages**:
@@ -55,6 +67,9 @@ A powerful Discord bot designed for Solana Degens to analyze memecoins, track wa
   - Unauthorized servers: "Orbit is exclusive for Solana Degens. Developed by @Ibaina"
 
 ## 🎨 Visual Elements
+
+> [!TIP]
+> All responses are formatted for maximum readability!
 
 - **Custom Status**: "Watching the memecoin galaxy🪐"
 - **Embed Styling**:
@@ -65,6 +80,9 @@ A powerful Discord bot designed for Solana Degens to analyze memecoins, track wa
 
 ## 📊 Data Sources
 
+> [!NOTE]
+> All data is fetched in real-time from reliable sources:
+
 - GMGN Smart Money Detection
 - TrenchScanner Bundle Analysis
 - Real-time Solana blockchain data
@@ -73,7 +91,9 @@ A powerful Discord bot designed for Solana Degens to analyze memecoins, track wa
 
 ## 🔐 Exclusive Access
 
-This bot is exclusively available for Solana Degens community. For access and inquiries:
+> [!IMPORTANT]
+> For VIP access and support:
+
 - Developer: @Ibaina
 - Business Contact: solanadegens99@gmail.com
 
@@ -93,5 +113,8 @@ This bot is exclusively available for Solana Degens community. For access and in
    - Professional trader tracking
    - Success rate analysis
    - Trading pattern study
+
+> [!CAUTION]
+> Always do your own research (DYOR) when trading. This bot is a tool to assist your research, not financial advice.
 
 *Note: All features are optimized for VIP members of authorized servers.*
